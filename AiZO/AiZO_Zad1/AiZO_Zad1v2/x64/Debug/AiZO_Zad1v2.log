@@ -1,0 +1,8 @@
+﻿  AiZO_Zad1v2.cpp
+C:\Users\johny\source\repos\AiZO_Zad1v2\AiZO_Zad1v2.cpp(206,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\johny\source\repos\AiZO_Zad1v2\AiZO_Zad1v2.cpp(270,30): warning C4244: "return": konwersja z "_Rep" do "double", możliwa utrata danych
+C:\Users\johny\source\repos\AiZO_Zad1v2\AiZO_Zad1v2.cpp(270,30): warning C4244:         with
+C:\Users\johny\source\repos\AiZO_Zad1v2\AiZO_Zad1v2.cpp(270,30): warning C4244:         [
+C:\Users\johny\source\repos\AiZO_Zad1v2\AiZO_Zad1v2.cpp(270,30): warning C4244:             _Rep=__int64
+C:\Users\johny\source\repos\AiZO_Zad1v2\AiZO_Zad1v2.cpp(270,30): warning C4244:         ]
+  AiZO_Zad1v2.vcxproj -> C:\Users\johny\source\repos\AiZO_Zad1v2\x64\Debug\AiZO_Zad1v2.exe
