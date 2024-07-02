@@ -1,0 +1,7 @@
+﻿  Utilities.cpp
+C:\Users\johny\source\repos\AiZO_p2v3\Utilities.cpp(54,62): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\johny\source\repos\AiZO_p2v3\Utilities.cpp(54,62): warning C4267:         with
+C:\Users\johny\source\repos\AiZO_p2v3\Utilities.cpp(54,62): warning C4267:         [
+C:\Users\johny\source\repos\AiZO_p2v3\Utilities.cpp(54,62): warning C4267:             _Ty=int
+C:\Users\johny\source\repos\AiZO_p2v3\Utilities.cpp(54,62): warning C4267:         ]
+  AiZO_p2v3.vcxproj -> C:\Users\johny\source\repos\AiZO_p2v3\x64\Debug\AiZO_p2v3.exe
